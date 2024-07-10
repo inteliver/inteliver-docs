@@ -58,7 +58,7 @@ theme:
 
 nav:
   - Introduction:
-    - introduction/index.md
+    - index.md
     - introduction/features.md
     - introduction/architecture.md
 

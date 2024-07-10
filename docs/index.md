@@ -1,5 +1,6 @@
 ---
 title: "Intro"
+icon: material/rocket
 ---
 
 # inteliver Introduction

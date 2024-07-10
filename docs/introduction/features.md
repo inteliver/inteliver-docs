@@ -17,15 +17,15 @@ Modify your image data using a variety of image processing functions.
 
     inteliver currently has the following image modifications.
 
-    - [x] [Resize](/examples/resize)
-    - [x] [Crop](/examples/crop)
-    - [x] [Rotate](/examples/rotate)
-    - [x] [Flip](/examples/flip)
-    - [x] [Blur](/examples/blur)
-    - [x] [Pixelate](/examples/pixelate)
-    - [x] [Sharpen](/examples/Sharpen)
-    - [x] [Gray Scale](/examples/gray-scale)
-    - [x] [Watermark](/examples/text-overlay)
+    - [x] [Resize](../examples/resize.md)
+    - [x] [Crop](../examples/crop.md)
+    - [x] [Rotate](../examples/rotate.md)
+    - [x] [Flip](../examples/flip.md)
+    - [x] [Blur](../examples/blur.md)
+    - [x] [Pixelate](../examples/pixelate.md)
+    - [x] [Sharpen](../examples/sharpen.md)
+    - [x] [Gray Scale](../examples/gray-scale.md)
+    - [x] [Watermark](../examples/text-overlay.md)
 
 
 ## 🔍 Image Information

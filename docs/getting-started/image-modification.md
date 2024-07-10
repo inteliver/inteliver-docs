@@ -7,15 +7,15 @@ title: "Image Modification"
 Modify your image data using a variety of image processing functions. These functionality includes
 the following.
 
-- [x] [Resize](/examples/resize)
-- [x] [Crop](/examples/crop)
-- [x] [Rotate](/examples/rotate)
-- [x] [Flip](/examples/flip)
-- [x] [Blur](/examples/blur)
-- [x] [Pixelate](/examples/pixelate)
-- [x] [Sharpen](/examples/sharpen)
-- [x] [Gray Scale](/examples/gray-scale)
-- [x] [Text Overlay](/examples/text-overlay)
+- [x] [Resize](../examples/resize.md)
+- [x] [Crop](../examples/crop.md)
+- [x] [Rotate](../examples/rotate.md)
+- [x] [Flip](../examples/flip.md)
+- [x] [Blur](../examples/blur.md)
+- [x] [Pixelate](../examples/pixelate.md)
+- [x] [Sharpen](../examples/sharpen.md)
+- [x] [Gray Scale](../examples/gray-scale.md)
+- [x] [Text Overlay](../examples/text-overlay.md)
 
 
 ### Here are simple examples:
@@ -86,12 +86,12 @@ the following.
 
     <center>Real-Time Gray Scale</center>
 
-Each operation has [examples](/examples) and you can also refer to [API reference](/api-reference) section for complete list of args.
+Each operation has [examples](../examples/index.md) and you can also refer to [API reference](../api-reference/index.md) section for complete list of args.
 
-The examples uses inteliver intuitive URL query commands. Please refer to [intuitive query commands](/getting-started/how-inteliver-works) for more information on our URL query commands. 
+The examples uses inteliver intuitive URL query commands. Please refer to [intuitive query commands](how-inteliver-works.md) for more information on our URL query commands. 
 
 !!! note
-    For more information on how to apply these functionalities using our SDKs please refer to [libraries](/libraries).
+    For more information on how to apply these functionalities using our SDKs please refer to [libraries](../libraries/index.md).
 
 ## Image Selection
 
@@ -99,7 +99,7 @@ You can apply the operation on different part of image. For selecting the part o
 an operation you can use the following different selections.
 
 
-There are examples of each one in [selection section](/examples/selection/) in examples.
+There are examples of each one in [selection section](../examples/index.md) in examples.
 
 * Window Selection
 * Face Selection

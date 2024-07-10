@@ -60,7 +60,7 @@ i_c_object_person,i_h_200,i_w_200,i_o_crop
 /000931783192390000000000000000000704.jpeg)</center>
 
 !!! info
-    You can lookup the object detection [API reference](/api-reference/object-detection/) to see all the objects we detect in images.
+    You can lookup the object detection [API reference](../api-reference/object-detection.md) to see all the objects we detect in images.
 
 
 #### Round Crop

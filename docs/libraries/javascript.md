@@ -111,4 +111,4 @@ The image you receive after modification is :
 
 
 !!! info
-    You can find out about the image modification examples at [inteliver Examples](/examples/).
+    You can find out about the image modification examples at [inteliver Examples](../examples/index.md).

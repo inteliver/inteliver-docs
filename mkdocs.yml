@@ -62,7 +62,7 @@ nav:
     - introduction/features.md
     - introduction/architecture.md
 
-  - GettingStarted:
+  - Getting Started:
     - getting-started/index.md
     - getting-started/installation.md
     - getting-started/how-inteliver-works.md

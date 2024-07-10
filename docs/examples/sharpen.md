@@ -46,7 +46,7 @@ i_c_object_car,i_o_sharpen
 <center>[![Original Image]({{ mediaBase }}/media/v1/{{ cloudName }}/i_c_object_car,i_o_sharpen/000932511633980000000000000000000518.jpeg)]({{ mediaBase }}/media/v1/{{ cloudName }}/i_c_object_car,i_o_sharpen/000932511633980000000000000000000518.jpeg)</center>
 
 !!! note
-    You can lookup the object detection [API reference](/api-reference/object-detection/) to see all the objects we detect in images.
+    You can lookup the object detection [API reference](../api-reference/object-detection.md) to see all the objects we detect in images.
 
 
 ### Face Sharpen

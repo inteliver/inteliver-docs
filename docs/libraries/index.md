@@ -16,10 +16,10 @@ Inteliver minimizes the integration process through **Intuitive URL Modifier** c
 
 Here are the list of our SDKs:
 
-- [x] [Python](/libraries/python)
-- [x] [NodeJS](/libraries/javascript)
-- [x] [React](/libraries/react)
-- [ ] [Golang](/libraries/golang)
+- [x] [Python](../libraries/python.md)
+- [x] [NodeJS](../libraries/javascript.md)
+- [x] [React](../libraries/react.md)
+- [ ] [Golang](../libraries/golang.md)
 
 
 We are continuously working to expand our SDK offerings, ensuring that more languages and frameworks are supported. We encourage you to contribute if you don't see your preferred language or framework listed.

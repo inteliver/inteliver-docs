@@ -38,3 +38,9 @@ mkdocs build
 ```
 
 This will create a `site` directory with your static documentation website ready to be hosted.
+
+### Notes
+1. Use relative links for internal navigation.
+
+> Example:
+    You can find out more examples at `[inteliver Examples](../examples/index.md)`

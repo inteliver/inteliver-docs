@@ -7,7 +7,7 @@ title: "Integration"
 
 ### Intuitive URLs
 
-Without any change in your codes, you can modify your image resources using our intuitive url modifiers. Learn more about [intuitive urls](/image-management/query-commands/).
+Without any change in your codes, you can modify your image resources using our intuitive url modifiers.
 
 Inteliver delivers the data after processing the query commands and applying the algorithms.
 
@@ -35,9 +35,9 @@ i_w_300,i_o_resize_keep
 ### SDK Integration
 
 Inteliver tries to minimize the integration process by providing SDKs in different programming languages.
-Please visit our [libraries](/libraries/) section for integrating using an SDK.
+Please visit our [libraries](../libraries/index.md) section for integrating using an SDK.
 
-Inteliver currently provides [Javascript](/libraries/javascript/), [Python](/libraries/python/) and [React](/libraries/react/) SDKs.
+Inteliver currently provides [Python](../libraries/python.md), [Javascript](../libraries/javascript.md), and [React](../libraries/react.md) SDKs.
 
 !!! note
     We are updating SDKs to be compatibale with our latest changes. Meanwhile we are more focused on Intuitive URL integration mode.

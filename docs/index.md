@@ -15,7 +15,7 @@ Inteliver allows for real-time image modifications and customizations, ensuring 
 
 ## :material-youtube: Watch Introduction Video in Youtube 
 <figure markdown="span">
-  [![inteliver Introduction Video](../assets/inteliver-introduction-video-snapshot.svg)](https://www.youtube.com/watch?v=8hEdIEvt7_E)
+  [![inteliver Introduction Video](assets/inteliver-introduction-video-snapshot.svg)](https://www.youtube.com/watch?v=8hEdIEvt7_E)
   <figcaption>inteliver Introduction Video</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Inteliver allows for real-time image modifications and customizations, ensuring 
     Install [`inteliver`](#) with [`pip`](#) and get up
     and running in minutes
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Getting started](getting-started/index.md)
 
 -   :material-lightbulb-on-10:{ .lg .middle } __It just Works__
 
@@ -39,7 +39,7 @@ Inteliver allows for real-time image modifications and customizations, ensuring 
 
     Focus on your core idea and inteliver does all the asset management for you
 
-    [:octicons-arrow-right-24: Reference](#)
+    [:octicons-arrow-right-24: How inteliver works?](getting-started/how-inteliver-works.md)
 
 -   :material-timer:{ .lg .middle } __Real-Time Image Modification__
 
@@ -47,7 +47,7 @@ Inteliver allows for real-time image modifications and customizations, ensuring 
 
     Apply all sorts of image modification on the fly tailored to your client
 
-    [:octicons-arrow-right-24: Examples](/examples)
+    [:octicons-arrow-right-24: Examples](examples/index.md)
 
 -   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
 

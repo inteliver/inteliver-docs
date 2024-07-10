@@ -82,4 +82,4 @@ i_c_object_dog,i_o_pixelate_10
 <center>[![Pixelate]({{ mediaBase }}/media/v1/{{ cloudName }}/i_c_object_dog,i_o_pixelate_10/000932453002500000000000000000000097.jpeg)]({{ mediaBase }}/media/v1/{{ cloudName }}/i_c_object_dog,i_o_pixelate_10/000932453002500000000000000000000097.jpeg)</center>
 
 !!! note
-    You can lookup the object detection [API reference](/api-reference/object-detection/) to see all the objects we detect in images.
+    You can lookup the object detection [API reference](../api-reference/object-detection.md) to see all the objects we detect in images.

@@ -10,14 +10,14 @@ Welcome to Inteliver, an open-source image management framework designed to stor
 This guide will help you get up and running with Inteliver, covering the essential concepts and features.
 
 ## What We'll Cover
-- [x] [Installation and Quick Start](/getting-started/installation): How to install Inteliver and get started.
-- [x] [How Inteliver Works](/getting-started/how-inteliver-works): Understanding query commands and the core functionality.
-- [x] [Easy Integration](/getting-started/integration): Leveraging intuitive URLs, SDK integration, and DNS integration.
-- [x] [Image Modifications Features](/getting-started/image-modification): Exploring the various image modification options.
-- [x] [Real-Time Image Compression](/getting-started/image-compression): Understanding the image compression capabilities.
-- [x] [A.I. and Image Information](/getting-started/image-ai): Identify objects, Remove background, Detect faces and more.
-- [x] [Inteliver Dashboard](/getting-started/inteliver-dashboard): Navigating and utilizing the Inteliver dashboard.
-- [x] [Use Cases](/getting-started/usecases): Real-world applications and scenarios for Inteliver.
+- [x] [Installation and Quick Start](installation.md): How to install Inteliver and get started.
+- [x] [How Inteliver Works](how-inteliver-works.md): Understanding query commands and the core functionality.
+- [x] [Easy Integration](integration.md): Leveraging intuitive URLs, SDK integration, and DNS integration.
+- [x] [Image Modifications Features](image-modification.md): Exploring the various image modification options.
+- [x] [Real-Time Image Compression](image-compression.md): Understanding the image compression capabilities.
+- [x] [A.I. and Image Information](image-ai.md): Identify objects, Remove background, Detect faces and more.
+- [x] [Inteliver Dashboard](inteliver-dashboard.md): Navigating and utilizing the Inteliver dashboard.
+- [x] [Use Cases](usecases.md): Real-world applications and scenarios for Inteliver.
 
 <div class="grid cards" markdown>
 
@@ -27,7 +27,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Install and [self-host inteliver](#) or use our [Cloud](#) version
 
-    [:octicons-arrow-right-24: Installation](/getting-started/installation)
+    [:octicons-arrow-right-24: Installation](installation.md)
 
 -   :fontawesome-solid-wand-magic-sparkles:{ .lg .middle } __How inteliver Works__
 
@@ -35,7 +35,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Explore inteliver's magic. Understand query commands and sky's the limit
 
-    [:octicons-arrow-right-24: Query Commands](/getting-started/how-inteliver-works)
+    [:octicons-arrow-right-24: Query Commands](how-inteliver-works.md)
 
 -   :simple-dask:{ .lg .middle } __Easy Integration__
 
@@ -43,7 +43,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Integrate using simple intuitive URLs, SDK integration, or DNS integration
 
-    [:octicons-arrow-right-24: Integration](/getting-started/integration)
+    [:octicons-arrow-right-24: Integration](integration.md)
 
 -   :material-image-check:{ .lg .middle } __Image Modifications__
 
@@ -51,7 +51,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Exploring the various image modification options.
 
-    [:octicons-arrow-right-24: Image Modifications](/getting-started/image-modification)
+    [:octicons-arrow-right-24: Image Modifications](image-modification.md)
 
 -   :material-quality-high:{ .lg .middle } __Real-Time Image Compression__
 
@@ -59,7 +59,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Deliver the best quality and size automatically
 
-    [:octicons-arrow-right-24: Image Compression](/getting-started/image-compression)
+    [:octicons-arrow-right-24: Image Compression](image-compression.md)
 
 
 -   :material-robot-happy:{ .lg .middle } __A.I. and Image Information__
@@ -68,7 +68,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Identify and tag objects, Remove background, Detect faces and more
 
-    [:octicons-arrow-right-24: A.I. Algorithms](/getting-started/image-ai)
+    [:octicons-arrow-right-24: A.I. Algorithms](image-ai.md)
 
 -   :material-quality-high:{ .lg .middle } __Inteliver Dashboard__
 
@@ -76,7 +76,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Using inteliver dashboard you can monitor and analyze all of the platform activity
 
-    [:octicons-arrow-right-24: Dashboard](/getting-started/inteliver-dashboard)
+    [:octicons-arrow-right-24: Dashboard](inteliver-dashboard.md)
 
 -   :material-quality-high:{ .lg .middle } __Use Cases__
 
@@ -84,7 +84,7 @@ This guide will help you get up and running with Inteliver, covering the essenti
 
     Inteliver is versatile and can be applied in various scenarios
 
-    [:octicons-arrow-right-24: Use Cases](/getting-started/usecases)
+    [:octicons-arrow-right-24: Use Cases](usecases.md)
 
 </div>
 

@@ -62,9 +62,10 @@ Lets say we want to crop the cars in a set of images:
 !!! note
     Here we first select car's object by `i_c_object_truck` and then crop it using `i_o_crop` operation.
 
-There are also more examples in [object detection examples](/examples/object-detection).
+There are also more examples in [object detection examples](../examples/object-detection.md).
 
-you can also refer to [API reference](/api-reference/object-detection/) section for complete list of args.
+!!! info
+    you can also refer to [API reference](../api-reference/object-detection.md) section for complete list of args.
 
 
 ## Face Detection

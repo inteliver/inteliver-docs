@@ -33,4 +33,4 @@ i_c_y_100,i_c_x_-140,i_o_text_inteliver_2.5_1_14_70_160
 <center>[![Textoverlay]({{ mediaBase }}/media/v1/{{ cloudName }}/i_c_y_100,i_c_x_-140,i_o_text_inteliver_2.5_7_14_70_160/000932246193860000000000000000000437.jpeg)]({{ mediaBase }}/media/v1/{{ cloudName }}/i_c_y_100,i_c_x_-140,i_o_text_inteliver_2.5_7_14_70_160/000932246193860000000000000000000437.jpeg)</center>
 
 !!! note
-    You can refer to the text overlay [API reference](/api-reference/text-overlay/) to see all the possible values for arguments.
+    You can refer to the text overlay [API reference](../api-reference/text-overlay.md) to see all the possible values for arguments.

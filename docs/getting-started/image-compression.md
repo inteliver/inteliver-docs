@@ -62,4 +62,4 @@ Here is an image with Real-Time WEBP compression levels of 80, 50 and 20.
     <center>Compressed Image Size: <strong>7.1 KB</strong></center>
     <center>Compression Ratio: <strong>~37</strong></center>
 
-you can also refer to [API reference](/api-reference/compression/) section for complete list of args.
+you can also refer to [API reference](../api-reference/compression.md) section for complete list of args.

@@ -43,4 +43,4 @@ Using A.I. features possibilities are simply endless.
 Using Inteliver A.I. text detection you can apply image processing functions only on texts. For example pixelating a car plate or applying faster OCR on texts in an image.
 
 !!! info
-    In the [examples](/examples) for each operation we show you how to exploit the full potential of these selection methods.
+    In the following examples for each operation we show you how to exploit the full potential of these selection methods.
